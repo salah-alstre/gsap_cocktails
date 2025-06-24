@@ -12,7 +12,7 @@
   <h3 align="center">GSAP Cocktail Website – Developed by Salah</h3>
 
   <div align="center">
-    A modern animated cocktail-themed website created using React, GSAP, and Tailwind CSS. Includes advanced scroll animations, parallax effects, and fully responsive design.
+    A modern animated cocktail-themed website created using React, GSAP, and Tailwind CSS. Includes advanced scroll animations, parallax effects, and fully responsive design
   </div>
 </div>
 
@@ -32,7 +32,7 @@
 
 ## 🤖 Introduction
 
-This is a fully responsive and scroll-animated website designed for a cocktail theme. It’s built with modern technologies and is optimized for both desktop and mobile viewing. This project demonstrates how to create interactive animations using GSAP’s powerful tools integrated into a React app.
+This is a fully responsive and scroll-animated website designed for a cocktail theme. It’s built with modern technologies and is optimized for both desktop and mobile viewing. This project demonstrates how to create interactive animations using GSAP’s powerful tools integrated into a React app
 
 ---
 
@@ -107,7 +107,7 @@ Feel free to reach out:
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**
 
 ---
 
