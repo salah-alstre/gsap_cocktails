@@ -108,4 +108,4 @@ If you have any questions or feedback, feel free to reach out:
 ## License
 This project is licensed under the MIT License.
 
-![Image](https://github.com/salah-alstre/zoom_clone/blob/main/Images/ZOOM_440PX.png)
+  <img src="public/images/hero.png" alt="Project Banner" />
