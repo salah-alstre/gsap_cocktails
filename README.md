@@ -36,7 +36,7 @@ This is a fully responsive and scroll-animated website designed for a cocktail t
 
 ---
 
-## ⚙️ tech-stack
+## ⚙️ Tech Stack
 
 - **[GSAP](https://gsap.com/)** for scroll-driven animations  
 - **[React](https://react.dev/)** for building UI components  
