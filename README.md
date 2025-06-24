@@ -87,8 +87,8 @@ The Figma design used in the project can be found [here](https://www.figma.com/d
 
 Feel free to reach out:
 
-- 📧 Email: [error.salah59@gmail.com](mailto:error.salah59@gmail.com)  
-- 💼 CV: [Salah CV](https://salahcv.site/)
+- Email: [email](mailto:error.salah59@gmail.com)
+- VC:    [ Salah Cv ](https://salahcv.site/)
 
 ---
 
