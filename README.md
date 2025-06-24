@@ -79,7 +79,7 @@ Visit [http://localhost:5173](http://localhost:5173) to view the project.
 
 ## 🔗 Links
 
-The Figma design used in the project can be found [here](https://www.figma.com/design/kMFzpRJjyB0MQEMuc1dnCO/Untitled?node-id=0-1&t=ck9jZ8QoxlvU1csP-1)
+The Figma design used in the project can be found [here]([https://www.figma.com/design/kMFzpRJjyB0MQEMuc1dnCO/Untitled?node-id=0-1&t=ck9jZ8QoxlvU1csP-1](https://www.figma.com/proto/MByXaI8pcleIbgTvsDat1X/Cocktail-GSAP-Website?node-id=42001-1163&p=f&t=U1ebR7voWSUjnCee-1&scaling=min-zoom&content-scaling=fixed&page-id=2%3A2))
 
 ---
 
