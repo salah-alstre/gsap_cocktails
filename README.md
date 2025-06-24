@@ -67,8 +67,8 @@ This is a fully responsive and scroll-animated website designed for a cocktail t
 **Cloning the Repository**
 
 ```bash
-https://github.com/salah-alstre/zoom_clone.git
-cd zoom-clone
+https://github.com/salah-alstre/gsap_cocktails.git
+cd gsap_cocktails
 ```
 
 **Installation**
@@ -79,9 +79,7 @@ Install the project dependencies using npm:
 npm install
 ```
 
-**Set Up Environment Variables**
 
-Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the [Clerk website](https://clerk.com/) and [getstream website](https://getstream.io/)
 
 **Running the Project**
 
